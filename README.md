@@ -23,22 +23,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,supabase,docker,cloudflare,appwrite,sqlite&perline=10" alt="Tools" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="48" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwn0ZVEmfrvQ855ti0L2JFL8fKHbMBnq9HZXlUTznskofUz68WZ8OjF4e&s=10" alt="Canva" height="48" />
 </p>
 
-### GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benyigiteren&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=benyigiteren&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=benyigiteren&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benyigiteren&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=benyigiteren&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS](https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg" alt="snake" />
