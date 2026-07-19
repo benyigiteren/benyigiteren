@@ -6,8 +6,8 @@
 
 ### About Me
 
-- Building developer tools & web apps
-- Currently deep into **Go** and **Rust**
+- Building mobile apps & web apps
+- Currently deep into **Go** and **Nextjs**
 - Turning ideas into shipped products
 - Based in Turkey
 
