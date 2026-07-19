@@ -27,4 +27,4 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=benyigiteren&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS](https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg" alt="snake" />
