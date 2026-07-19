@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,supabase,docker,cloudflare,appwrite,sqlite&perline=10" alt="Tools" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwn0ZVEmfrvQ855ti0L2JFL8fKHbMBnq9HZXlUTznskofUz68WZ8OjF4e&s=10" alt="Canva" height="48" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" height="48" />
 </p>
 
 
