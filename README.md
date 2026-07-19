@@ -16,13 +16,13 @@
 **Languages & Frameworks**
 
 <p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=go%2Cts%2Creact%2Cnextjs%2Cpython%2Crust%2Ckotlin%2Cflutter%2Cphp%2Cmysql%2" alt="Languages" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=go%2Ctypescript%2Creact%2Cnextjs%2Cpython%2Crust%2Ckotlin%2Cflutter%2Cphp%2Cmysql%2" alt="Languages" />
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git%2Cgithub%2Csupabase%2Cdocker%2Ccloudflare%2Cappwrite%2vscode%2androidstudio" alt="Tools" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git%2Cgithub%2Csupabase%2Cdocker%2Ccloudflare%2Cappwrite%2androidstudio" alt="Tools" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" height="48" />
 </p>
 
