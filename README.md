@@ -1,34 +1,29 @@
-# Yiğit Eren
-
-Full-Stack ve Sistem Geliştirici | Go, Kotlin, TypeScript
-
-[Website](https://yigiteren.org) | [GitHub](https://github.com/benyigiteren)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Yi%C4%9Fit+%F0%9F%91%8B;Full-Stack+Developer;Go+%7C+TypeScript+;I+build+tools+that+ship" alt="Typing SVG" />
+</div>
 
 ---
 
-### Hakkımda
+### About Me
 
-Go diliyle 15-25MB altı RAM tüketen, yüksek performanslı ve taşınabilir backend sistemleri geliştiriyorum. Mobil tarafta Kotlin ve Jetpack Compose ile Android araçları, web tarafında ise Next.js 15 ve modern arayüz teknolojileri üzerine çalışıyorum.
+- Building mobile apps & web apps
+- Currently deep into **Go** and **Nextjs**
+- Turning ideas into shipped products
+- Based in Turkey
 
----
+### Tech Stack
 
-### Açık Kaynak Projelerim
+**Languages & Frameworks**
 
-| Proje | Ne İşe Yarar ve Farkı | Teknolojiler |
-| :--- | :--- | :--- |
-| [**Linklik**](https://github.com/benyigiteren/linklik) | Go ve SQLite ile yazılmış, 15MB altı RAM tüketen ve saniyede 10 binden fazla istek karşılayabilen asenkron analitikli self-hosted link kısaltma servisi. | Go, SQLite WAL, Docker |
-| [**GoTree**](https://github.com/benyigiteren/gotree) | Go ve SQLite ile geliştirilmiş, 25MB altı RAM tüketen, canlı önizlemeli ve temalı self-hosted Linktree alternatifi. | Go, SQLite, Tailwind, Alpine.js |
-| [**BigPocket**](https://github.com/benyigiteren/bigpocket) | Go ve Kotlin ile geliştirilmiş, telefonu bilgisayar için sıfır gecikmeli sanal ikinci monitör, sanal mikrofon ve stream deck yapan uzaktan yönetim aracı. | Kotlin, Jetpack Compose, Go |
-| [**UptimeGo**](https://github.com/benyigiteren/uptimego) | Go ve SQLite ile geliştirilmiş, 15MB altı RAM tüketen, HTTP ve Ping takipli, Telegram ve Discord bildirimli self-hosted durum ve kesinti takip sistemi. | Go, SQLite, Tailwind |
-| [**GoForm**](https://github.com/benyigiteren/goform) | Go ile yazılmış, 15MB altı RAM tüketen, webhook ve yapay zeka ajan desteğine sahip gizlilik odaklı self-hosted form ve anket servisi. | Go, SQLite, Vanilla JS |
-| [**GoAscii**](https://github.com/benyigiteren/goascii) | Go ile sıfır bağımlılıkla yazılmış, terminale curl üzerinden veya tarayıcıya canlı 3D ASCII animasyon akışı sağlayan hafif servis. | Go, ANSI, Streaming |
-| [**Bingo**](https://github.com/benyigiteren/bingo) | Go standart kütüphanesiyle yazılmış, CGO içermeyen ve 15MB altı RAM tüketen minimalist self-hosted dosya ve metin paylaşım platformu. | Go, SQLite WAL |
-| [**Portfolyo**](https://github.com/benyigiteren/portfolyo-website) | Next.js 15, React 19 ve Tailwind CSS ile geliştirilmiş, tek bir ayar dosyasından yönetilen editoryal koyu temalı portfolyo şablonu. | Next.js 15, React 19, Tailwind v4 |
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=go,typescript,react,nextjs,vuejs,python,rust,kotlin,flutter,php,mysql" alt="Languages" />
+</p>
 
----
+**Tools & Platforms**
 
-### Yetenekler ve Teknolojiler
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=git,github,supabase,docker,cloudflare,appwrite,vscode,androidstudio,canva" alt="Tools" />
+<p>
 
-**Diller:** Go, Kotlin, TypeScript, Python, Rust, SQL
 
-**Araçlar ve Platformlar:** Docker, Linux, Git, GitHub, Android Studio, VS Code, Cloudflare
+<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg" alt="snake" />
