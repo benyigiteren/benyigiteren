@@ -26,4 +26,4 @@
 <p>
 
 
-<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="github-contribution-grid-snake-dark.svg" alt="snake" />
