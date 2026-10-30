@@ -28,7 +28,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**bigpocket**](https://github.com/benyigiteren/bigpocket) | Turns your phone into a zero-latency second monitor, virtual mic and stream deck | Go · Kotlin |
+| [**bigpocket**](https://github.com/benyigiteren/bigpocket) | Turns your phone into a zero-latency second monitor, virtual mic and stream deck | Rust |
 | [**bingo**](https://github.com/benyigiteren/bingo) | Minimalist self-hosted file & text sharing — no CGO, under 15 MB RAM | Go |
 | [**gotree**](https://github.com/benyigiteren/gotree) | Self-hosted Linktree alternative with live preview and themes | Go · SQLite |
 | [**linklik**](https://github.com/benyigiteren/linklik) | Link shortener with async analytics, 10k+ req/s within 15 MB RAM | Go · SQLite |
